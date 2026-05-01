@@ -14,5 +14,6 @@ public class voteornot
     {
         System.out.println("can not vote");
     }
+    obj.close();
 }
 }

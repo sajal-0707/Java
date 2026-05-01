@@ -9,5 +9,6 @@ public class perameterofrec {
         int b= obj.nextInt();
         int c= 2*(a*b);
         System.out.println(c);
+        obj.close();
     }
 }
