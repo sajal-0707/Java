@@ -1,3 +1,4 @@
+// Mad Libs Game
 import java.util.Scanner;
 public class madlibsgame {
     public static void main(String[] args) {
