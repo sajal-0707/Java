@@ -33,4 +33,4 @@ public class existance {
                 System.out.println("You are unemployed");
         }
     }
-}
+} 
