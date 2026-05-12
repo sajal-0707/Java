@@ -28,9 +28,9 @@ public class existance {
             System.out.print("Do you have a job?(yes/no)= ");
             String choice = scanner.nextLine();
             if(choice.equals("yes"))
-                System.out.println("You are employed");
+                System.out.println("You are employed ");
             else
-                System.out.println("You are unemployed");
+                System.out.println("You are unemployed ");
         }
     }
 } 
