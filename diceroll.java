@@ -4,6 +4,6 @@ public class diceroll {
     {
         Random random= new Random();
         int num= random.nextInt(1,7);
-        System.out.println(num);
+        System.out.println( num );
     }
 }
