@@ -8,7 +8,7 @@ public class evorodd
         System.out.print("Enter a number = ");
         int num= scanner.nextInt();
         String ans= (num%2==0)? "Even":"Odd";
-        System.out.println(ans);
+        System.out.println( ans );
         scanner.close();
     }
 }
