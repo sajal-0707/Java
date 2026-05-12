@@ -18,7 +18,7 @@ public class compound
         System.out.print("Enter the number of years= ");
         year= scanner.nextInt();
         amount= principal * Math.pow(1+(rate/timescom),timescom*year );
-        System.out.printf("the amount after %d years is %.2f",year,amount);
+        System.out.printf("the amount after %d years is %.2f ",year,amount);
         scanner.close();
     }
 }
