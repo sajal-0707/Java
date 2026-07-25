@@ -12,6 +12,6 @@ public class CtoF
         unit= scanner.next().toUpperCase();
         newtemp= (unit.equals("C"))? (temp-32)* 5/9 : (temp * 5/9)+32;
         System.out.printf("%.1f°%s",newtemp,unit);
-        scanner.close();
+        scanner.close() ;
     }
 }
