@@ -12,7 +12,7 @@ public class voteornot
     }
     else
     {
-        System.out.println("can not vote");
+        System.out.println("can not vote ");
     }
     obj.close();
 }
